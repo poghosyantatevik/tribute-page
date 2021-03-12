@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(248, 246, 246);
+}
+
+#main {
+    box-sizing: border-box;
+}
+
+#img-div {
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+}
+
+#title {
+    font-weight: 700;
+    color: rgb(58, 57, 57);
+}
+
+.heading-weight {
+    font-weight: 700;
+    color: rgb(58, 57, 57);
+}
+
+#image {
+    border-radius: 3px;
+}
+
+#tribute-info {
+    color: rgb(58, 57, 57);
+}
+
+#tribute-link {
+    color: #477ca7;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
